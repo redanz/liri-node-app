@@ -22,6 +22,7 @@
     "bandsintown": "^1.0.1",
     "dotenv": "^6.2.0",
     "moment": "^2.24.0",
-    "node-spotify-api": "^1.0.7"
+    "node-spotify-api": "^1.0.7",
+    "rx-text-search": "^1.0.0"
   }
 }
